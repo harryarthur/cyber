@@ -1,4 +1,4 @@
-# cyber
+# CYBER
 
 Hi, I'm Harry — currently working in IT while pursuing a Master’s in Cybersecurity. I'm hoping for a pivot into roles in:
 
@@ -9,7 +9,7 @@ Hi, I'm Harry — currently working in IT while pursuing a Master’s in Cyberse
 This repository showcases my practical work and learning in these areas. It includes labs, reports, policies, detection rules, and hands-on exercises designed to help demonstrate my readiness for junior or entry-level cybersecurity roles.
 
 ---
-Current status: 1/25 deliverables complete. 
+##Current status: 1/25 deliverables complete.## 
 
 ## 📂 Folder Structure
 
