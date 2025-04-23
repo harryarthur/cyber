@@ -9,6 +9,7 @@ Hi, I'm Harry — currently working in IT while pursuing a Master’s in Cyberse
 This repository showcases my practical work and learning in these areas. It includes labs, reports, policies, detection rules, and hands-on exercises designed to help demonstrate my readiness for junior or entry-level cybersecurity roles.
 
 ---
+Current status: 1/25 deliverables complete. 
 
 ## 📂 Folder Structure
 
@@ -34,15 +35,15 @@ This guide outlines all the deliverables from my 8-month cybersecurity upskillin
 
 ---
 
-## 1. CTI Report #1 (APT-based or simulation)
-**Topics Covered:** Threat Intelligence Lifecycle, MITRE ATT&CK, Threat actor profiling, Report writing  
-**Suggestion:** Use MITRE ATT&CK + threat reports from FireEye or Recorded Future. Choose an APT (e.g., APT29) and write a 2-page brief in Markdown or Word.
+## 1. CTI Report #1 ✅
+**Title:** A Review of Cyber Threats Targeting Fiji
+**Suggestion:** This report provides a strategic cyber threat intelligence assessment of Fiji, analyzing the 2021 REvil ransomware incident, the nation's evolving cybersecurity posture, and its exposure within a geopolitically competitive Pacific region. 
 
 ---
 
 ## 2. CTI Report #2 (OSINT-based investigation)
-**Topics Covered:** OSINT techniques, TTPs and IOCs, Attribution  
-**Suggestion:** Use SpiderFoot or IntelTechniques to investigate a domain/persona. Write up any potential threat activity.
+**Topics Covered:** OSINT techniques, TTPs and IOCs, Attribution, Threat Intelligence Lifecycle, MITRE ATT&CK, Threat actor profiling, Report writing    
+**Suggestion:** Use SpiderFoot or IntelTechniques to investigate a domain/persona. Write up any potential threat activity. Use MITRE ATT&CK + threat reports from FireEye or Recorded Future. Choose an APT (e.g., APT29) and write a 2-page brief in Markdown or Word.
 
 ---
 
