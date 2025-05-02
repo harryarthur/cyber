@@ -1,0 +1,10 @@
+GRC::Cyber Strategy AU::What is the overarching goal of the 2023–2030 Australian Cyber Security Strategy?	To make Australia the most cyber-secure nation by 2030 through a whole-of-nation approach involving government, industry, and citizens.
+GRC::Cyber Strategy AU::What are the six 'cyber shields' outlined in the Strategy?	Strong businesses and citizens; Safe technology; World-class threat sharing and blocking; Protected critical infrastructure; Sovereign capabilities; Resilient region and global leadership.
+GRC::Cyber Strategy AU::How is the Strategy structured over time?	It is implemented across three horizons: Horizon 1 (2023–2025) strengthens foundations; Horizon 2 (2026–2028) scales cyber maturity; Horizon 3 (2029–2030) aims for global leadership.
+GRC::Cyber Strategy AU::What is the purpose of the Cyber Incident Review Board proposed in the Strategy?	To conduct no-fault reviews of significant cyber incidents to facilitate learning and response improvement.
+GRC::Cyber Strategy AU::What legislative reforms are proposed concerning critical infrastructure?	Amendments to the Security of Critical Infrastructure Act 2018 to include data systems and business-critical data.
+GRC::Cyber Strategy AU::What is the government's stance on ransomware reporting?	The Strategy proposes mandatory, no-fault ransomware reporting.
+GRC::Cyber Strategy AU::How does the Strategy aim to support small and medium-sized enterprises (SMEs)?	By implementing a 'cyber health check' program offering free cyber maturity assessments.
+GRC::Cyber Strategy AU::What investment has the government committed to the Strategy?	An additional A$586.9 million for SMEs, awareness, and critical infrastructure protection.
+GRC::Cyber Strategy AU::How does the Strategy plan to enhance Australia's cyber workforce?	Through professional development investments and skilled migrant recruitment.
+GRC::Cyber Strategy AU::What role does international collaboration play in the Strategy?	To share threat intelligence, develop capabilities, and strengthen regional cyber resilience.

@@ -1,0 +1,30 @@
+Cybersecurity Core::What does the CIA Triad stand for in cybersecurity?	Confidentiality, Integrity, Availability
+Cybersecurity Core::What is the principle of least privilege?	Giving users the minimum access necessary to perform their job.
+Cybersecurity Core::What is the difference between a vulnerability and a threat?	A vulnerability is a weakness; a threat is a potential exploit of that weakness.
+Cybersecurity Core::What is defense in depth?	A layered approach to cybersecurity that uses multiple defensive strategies.
+Cybersecurity Core::What is the role of security awareness training?	To educate users about security best practices and social engineering threats.
+Cybersecurity Core::What is an attack surface?	The total sum of all possible entry points for unauthorized access.
+Cybersecurity Core::What is multi-factor authentication (MFA)?	A method requiring two or more verification factors to gain access.
+Cybersecurity Core::What is a security policy?	A document outlining rules and procedures for securing an organization's assets.
+Cybersecurity Core::What is the difference between authentication and authorization?	Authentication verifies identity; authorization grants access rights.
+Cybersecurity Core::What are some examples of physical security controls?	Locks, badges, security guards, CCTV.
+Cybersecurity Core::What is user behavior analytics (UBA)?	Monitoring and analyzing user actions to detect suspicious behavior.
+Cybersecurity Core::What is a security incident?	An event that compromises the confidentiality, integrity, or availability of an asset.
+Cybersecurity Core::What is a zero trust model?	A security framework where no entity is trusted by default, even inside the network.
+Cybersecurity Core::What is risk in the context of cybersecurity?	The potential for loss or damage when a threat exploits a vulnerability.
+Cybersecurity Core::What are administrative controls in cybersecurity?	Policies, procedures, and training designed to reduce risk.
+Cybersecurity Core::What are technical controls in cybersecurity?	Security measures implemented through hardware or software.
+Cybersecurity Core::What is social engineering in a cyber context?	Manipulating individuals into giving up confidential information.
+Cybersecurity Core::What is the function of antivirus software?	To detect and remove malicious software from systems.
+Cybersecurity Core::What is a false positive in cybersecurity?	An alert indicating a problem where none exists.
+Cybersecurity Core::What is the role of logging and monitoring in cybersecurity?	To detect, investigate, and respond to incidents.
+Cybersecurity Core::What is an insider threat?	A security risk from someone within the organization.
+Cybersecurity Core::What is the difference between active and passive security measures?	Active measures respond to threats; passive measures prevent access.
+Cybersecurity Core::What is the role of patch management?	To keep systems updated to fix vulnerabilities.
+Cybersecurity Core::What is endpoint security?	Protecting end-user devices like laptops and smartphones.
+Cybersecurity Core::What is sandboxing in cybersecurity?	Running code in a controlled environment to observe behavior.
+Cybersecurity Core::What is the purpose of access control lists (ACLs)?	To define which users or systems can access certain resources.
+Cybersecurity Core::What is a honeypot in cybersecurity?	A decoy system used to lure and study attackers.
+Cybersecurity Core::What is the role of data classification?	To categorize data based on sensitivity and apply appropriate controls.
+Cybersecurity Core::What is threat modeling?	Identifying and prioritizing potential threats to a system.
+Cybersecurity Core::What is a business continuity plan (BCP)?	A strategy to continue operations during and after a disruption.

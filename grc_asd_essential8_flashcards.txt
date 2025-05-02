@@ -1,0 +1,20 @@
+GRC::ASD Essential 8::What are the ASD Essential Eight?	A prioritised list of eight mitigation strategies designed to help organisations reduce their cybersecurity risk.
+GRC::ASD Essential 8::What is the purpose of the Essential Eight?	To provide baseline mitigation strategies that make it significantly harder for adversaries to compromise systems.
+GRC::ASD Essential 8::Name all eight strategies in the Essential Eight.	1) Application control, 2) Patch applications, 3) Configure Microsoft Office macro settings, 4) User application hardening, 5) Restrict administrative privileges, 6) Patch operating systems, 7) Multi-factor authentication, 8) Regular backups.
+GRC::ASD Essential 8::What are the three maturity levels of the Essential Eight?	Maturity Level 1 (ML1), Maturity Level 2 (ML2), Maturity Level 3 (ML3).
+GRC::ASD Essential 8::What does Maturity Level 1 represent?	Partially aligned controls that protect against basic threats.
+GRC::ASD Essential 8::What does Maturity Level 2 represent?	Controls implemented to resist more sophisticated threats.
+GRC::ASD Essential 8::What does Maturity Level 3 represent?	Controls implemented to resist adversaries that exploit weaknesses in lower levels.
+GRC::ASD Essential 8::Why is application control important?	It prevents unapproved or malicious programs from executing.
+GRC::ASD Essential 8::What is the goal of patching applications?	To fix security vulnerabilities that could be exploited by attackers.
+GRC::ASD Essential 8::Why should Microsoft Office macros be restricted?	Macros are a common method used by attackers to deliver malware.
+GRC::ASD Essential 8::What is the goal of user application hardening?	To reduce the attack surface by disabling unnecessary features.
+GRC::ASD Essential 8::Why are administrative privileges restricted under the Essential Eight?	To limit the damage a compromised account can cause.
+GRC::ASD Essential 8::What does patching operating systems achieve?	Reduces the risk of exploitation of known vulnerabilities.
+GRC::ASD Essential 8::Why is multi-factor authentication (MFA) essential?	It adds an extra layer of security beyond passwords.
+GRC::ASD Essential 8::What are the goals of regular backups?	To ensure data recovery after incidents like ransomware attacks.
+GRC::ASD Essential 8::What is the expected patching time for critical vulnerabilities in ML3?	Within 48 hours of release.
+GRC::ASD Essential 8::What is a common hardening action for web browsers?	Disabling Java and ads from untrusted sources.
+GRC::ASD Essential 8::How often should vulnerability scans occur in ML2 and ML3?	At least weekly or fortnightly depending on asset type.
+GRC::ASD Essential 8::Why is macro-blocking used in Microsoft Office security?	To prevent execution of embedded malicious code.
+GRC::ASD Essential 8::How should organisations choose their target maturity level?	Based on their threat environment, business risks, and the classification of systems and data.

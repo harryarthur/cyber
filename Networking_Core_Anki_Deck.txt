@@ -1,0 +1,34 @@
+What are the seven layers of the OSI model?	Physical, Data Link, Network, Transport, Session, Presentation, Application.
+What are the four layers of the TCP/IP model?	Link, Internet, Transport, Application.
+Which OSI layer is responsible for routing?	The Network layer.
+Which OSI layer ensures reliable transmission of data?	The Transport layer.
+At which OSI layer does a switch operate?	The Data Link layer.
+At which OSI layer does a router operate?	The Network layer.
+What is encapsulation in networking?	The process of wrapping data with protocol-specific information before transmission.
+What is the difference between IPv4 and IPv6?	IPv4 is a 32-bit address space, IPv6 is a 128-bit address space.
+What is CIDR notation?	A shorthand for representing IP addresses and their associated routing prefix.
+How many hosts can a /24 subnet support?	254 usable hosts.
+What is the purpose of a subnet mask?	To divide an IP address into network and host portions.
+What is a private IP address?	An IP address reserved for internal use, not routable on the internet (e.g., 192.168.0.0/16).
+What is the purpose of the ARP protocol?	To map an IP address to a MAC address.
+What is the difference between TCP and UDP?	TCP is connection-oriented and reliable; UDP is connectionless and faster but unreliable.
+What port does DNS use?	UDP port 53 (TCP 53 for zone transfers).
+What port does HTTP use?	TCP port 80.
+What port does HTTPS use?	TCP port 443.
+What port does SSH use?	TCP port 22.
+What protocol is used to assign IP addresses dynamically?	DHCP.
+What protocol is used to resolve domain names to IP addresses?	DNS.
+What is the difference between a switch and a router?	A switch connects devices within the same network; a router connects different networks.
+What is a default gateway?	The IP address of the router a host uses to access other networks.
+What is NAT?	Network Address Translation – translates private IPs to a public IP for internet access.
+What is the difference between static and dynamic routing?	Static routes are manually configured; dynamic routes are automatically learned.
+What is SSID in wireless networking?	Service Set Identifier – the name of a Wi-Fi network.
+What is WPA2?	Wi-Fi Protected Access 2 – a security protocol for wireless networks.
+What is MAC filtering?	Restricting network access based on device MAC addresses.
+What does the 'ping' command do?	Tests network connectivity to a specific IP address or hostname.
+What does the 'traceroute' or 'tracert' command do?	Shows the path packets take to reach a destination.
+What does the 'nslookup' command do?	Queries DNS to obtain domain name or IP address mappings.
+What does the 'ipconfig' or 'ifconfig' command do?	Displays network interface configuration on a host.
+What is a VLAN?	Virtual Local Area Network – a logical segmentation of a network.
+What is MTU?	Maximum Transmission Unit – the largest packet size that can be transmitted.
+What is a broadcast domain?	A network segment in which a broadcast packet is forwarded to all devices.

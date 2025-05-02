@@ -1,0 +1,38 @@
+What protocol does a browser use to request web pages?	HTTP or HTTPS.
+What is the difference between HTTP and HTTPS?	HTTPS is HTTP over TLS/SSL and provides encryption and secure identification.
+What is TLS used for?	Transport Layer Security – it encrypts data in transit for secure communication.
+What port does HTTP use?	TCP port 80.
+What port does HTTPS use?	TCP port 443.
+What protocol is used to transfer files over the web securely?	SFTP or FTPS.
+What is the purpose of the WebSocket protocol?	To enable full-duplex communication channels over a single TCP connection.
+What protocol is used by REST APIs?	Typically HTTP or HTTPS.
+What is the role of the Content-Type header in HTTP?	It tells the client or server the type of data being transmitted.
+What protocol is used for email retrieval?	IMAP or POP3.
+What protocol is used to send emails?	SMTP.
+What protocol is used for file sharing in Windows networks?	SMB (Server Message Block).
+What ports does SMB typically use?	TCP ports 445 and 139.
+What is NetBIOS and its function?	A legacy protocol for name resolution and communication in Windows networks.
+What protocol is used for remote desktop access in Windows?	RDP (Remote Desktop Protocol).
+What port does RDP use?	TCP port 3389.
+What protocol is used for Windows domain authentication?	Kerberos.
+What is LDAP used for in Windows?	Accessing and maintaining distributed directory information services.
+What port does LDAP use?	TCP/UDP port 389 (636 for LDAPS).
+What is the purpose of Group Policy in networking?	To enforce security and configuration settings across Windows systems.
+What protocol does Windows use for time synchronization?	NTP (Network Time Protocol).
+What protocol is commonly used for remote command-line access in Linux?	SSH (Secure Shell).
+What port does SSH use?	TCP port 22.
+What is SCP?	Secure Copy Protocol – uses SSH for securely transferring files.
+What is rsync used for?	Synchronizing and transferring files between systems.
+What is the purpose of syslog?	A protocol for system logging and message forwarding.
+What port does syslog use?	UDP port 514.
+What protocol does Linux typically use for software updates?	HTTP/HTTPS via package managers like APT or YUM.
+What is NFS in Linux?	Network File System – allows a system to access files over a network.
+What port does NFS typically use?	TCP/UDP port 2049.
+What is the role of D-Bus in Linux?	A message bus system for communication between applications and services.
+What is ICMP used for?	Internet Control Message Protocol – for sending error messages and diagnostics like ping.
+What protocol is used by SNMP?	Simple Network Management Protocol – used to monitor and manage devices.
+What port does SNMP use?	UDP ports 161 and 162.
+What is the purpose of DNS?	To translate domain names into IP addresses.
+What protocol does traceroute use?	ICMP (Linux/macOS) or UDP; Windows uses ICMP Echo Requests.
+What does the 'curl' command use by default?	HTTP over TCP.
+What is Telnet used for?	Accessing remote systems over an insecure text-based interface (mostly obsolete).

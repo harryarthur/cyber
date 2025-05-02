@@ -1,0 +1,50 @@
+What are the four types of cyber threat intelligence?	Strategic, Tactical, Operational, and Technical.
+What is the difference between tactical and operational threat intelligence?	Tactical intelligence provides details of TTPs to support immediate defensive actions, while operational intelligence focuses on specific threats and campaigns to inform response activities.
+What is an intelligence requirement (IR)?	A prioritized informational need that drives the intelligence collection process.
+What is the intelligence lifecycle?	Direction, Collection, Processing and Exploitation, Analysis and Production, Dissemination, and Feedback.
+Why is feedback important in the intelligence lifecycle?	It helps refine intelligence requirements and improve future collection and analysis.
+What are the seven steps of the Lockheed Martin Cyber Kill Chain?	Reconnaissance, Weaponization, Delivery, Exploitation, Installation, Command and Control (C2), and Actions on Objectives.
+What does the Diamond Model of Intrusion Analysis emphasize?	The relationships between adversary, capability, infrastructure, and victim.
+How does MITRE ATT&CK differ from the Kill Chain?	MITRE ATT&CK focuses on post-compromise adversary behavior using a matrix of tactics and techniques.
+What is a TTP in the context of threat intelligence?	Tactics, Techniques, and Procedures used by threat actors.
+What is the purpose of the MITRE ATT&CK framework?	To provide a globally accessible knowledge base of adversary behavior for detection, analysis, and mitigation.
+What is MISP?	Malware Information Sharing Platform - an open-source threat intelligence platform for sharing indicators.
+What is OpenCTI used for?	A platform for managing, analyzing, and sharing cyber threat intelligence.
+Which tool is widely used for threat actor tracking and analysis?	ThreatConnect or Recorded Future.
+What format does MISP use to share threat data?	MISP uses its own JSON-based format called MISP Events.
+What is STIX?	Structured Threat Information Expression - a standardized language for describing threat information.
+What is an APT group?	Advanced Persistent Threat - a group with sophisticated, long-term cyber espionage or attack objectives.
+What kind of behavior might suggest APT activity?	Use of custom malware, targeted phishing, long dwell times, and lateral movement.
+What is an Indicator of Compromise (IOC)?	A piece of forensic data that identifies potentially malicious activity on a system or network.
+What are common types of IOCs?	IP addresses, domain names, URLs, file hashes, and email addresses.
+Name one well-known APT group and their suspected origin.	APT29 (Cozy Bear), suspected to be associated with Russia.
+How can CTI support a Security Operations Center (SOC)?	By providing context on threats, IOCs for detection, and intelligence for incident response.
+How can CTI help with vulnerability management?	By prioritizing vulnerabilities based on active exploitation in the wild.
+How is CTI used in attribution?	By analyzing TTPs, infrastructure, and behaviors to identify likely threat actors.
+How can CTI assist in threat hunting?	By supplying hypotheses based on known TTPs and indicators.
+Why is strategic threat intelligence valuable to executives?	It informs risk decisions, resource allocation, and high-level threat trends.
+What does IOC stand for?	Indicator of Compromise.
+What does TTP stand for?	Tactics, Techniques, and Procedures.
+What does APT stand for?	Advanced Persistent Threat.
+What is the meaning of C2?	Command and Control - communication channel between attacker and compromised systems.
+What does IOCs vs IOAs mean?	IOCs are Indicators of Compromise, while IOAs are Indicators of Attack - behaviors suggesting an attack is in progress.
+What does the term 'threat actor' refer to?	An individual or group responsible for a malicious cyber activity.
+What is a threat vector?	The path or method a threat actor uses to gain unauthorized access to a system.
+What is the difference between strategic and technical threat intelligence?	Strategic is high-level and informs decision-makers; technical is low-level and includes IOCs.
+What is the benefit of using threat intelligence feeds?	They provide up-to-date information on known threats and indicators to enhance detection.
+What role does enrichment play in threat intelligence?	It adds context to indicators to improve analysis and prioritization.
+What does the VERIS framework aim to standardize?	The way cyber incidents are described and categorized for better reporting and analysis.
+What are 'false positives' in CTI context?	Benign events mistakenly flagged as malicious based on threat intelligence.
+What is threat scoring?	Assigning a risk value to an indicator or actor based on credibility, severity, and relevance.
+What is the role of taxonomy in threat intelligence?	It provides consistent categorization of threats for easier analysis.
+What is a threat bulletin?	A summary report outlining current threats, trends, and mitigation recommendations.
+What is YARA used for in CTI?	Creating rules to identify and classify malware samples.
+What is the value of indicator context in CTI?	It tells analysts when, where, and how to act on an indicator.
+What is an exploit kit?	A software package used by attackers to exploit vulnerabilities in systems.
+What is meant by 'actor infrastructure'?	The network assets (e.g., domains, IPs, servers) used by a threat actor.
+How can CTI improve phishing detection?	By identifying domains, language patterns, and sender details associated with known campaigns.
+What is a common challenge in CTI data?	Volume, duplication, and lack of context for indicators.
+What is the goal of cyber threat attribution?	To identify the actor or group behind an attack.
+How does CTI support risk management?	By identifying relevant threats and informing impact assessments.
+What is a TLP and why is it used?	Traffic Light Protocol – to control how sensitive information is shared.
+What is the importance of automation in CTI?	It speeds up indicator processing, correlation, and sharing.

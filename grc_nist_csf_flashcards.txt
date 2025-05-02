@@ -1,0 +1,10 @@
+GRC::NIST CSF::What is the primary purpose of the NIST Cybersecurity Framework (CSF)?	To provide voluntary guidance for organizations to manage and reduce cybersecurity risks through a structured, flexible, and repeatable approach.
+GRC::NIST CSF::What are the six core Functions of CSF 2.0?	Identify, Protect, Detect, Respond, Recover, and the newly added Govern Function.
+GRC::NIST CSF::What is the role of the new 'Govern' Function in CSF 2.0?	To emphasize cybersecurity governance, integrating cybersecurity risk management into broader enterprise risk management practices.
+GRC::NIST CSF::How does CSF 2.0 address supply chain risk management?	By incorporating supply chain risk management into the 'Govern' Function.
+GRC::NIST CSF::What are the components of the CSF Core?	Functions, Categories, and Subcategories that outline specific cybersecurity outcomes and security controls.
+GRC::NIST CSF::What are CSF Profiles, and how are they used?	Profiles represent the alignment of an organization's cybersecurity activities with its business requirements, risk tolerance, and resources.
+GRC::NIST CSF::What are CSF Implementation Tiers?	Tiers describe the degree to which an organization's cybersecurity risk management practices exhibit the characteristics defined in the Framework.
+GRC::NIST CSF::How does CSF 2.0 enhance guidance for small and medium-sized enterprises (SMEs)?	By providing more accessible and scalable guidance tailored to the needs and capabilities of SMEs.
+GRC::NIST CSF::What is the significance of the 'Improve' Category in CSF 2.0?	It emphasizes the importance of continuous improvement in cybersecurity risk management practices.
+GRC::NIST CSF::How does CSF 2.0 facilitate communication about cybersecurity risks?	By offering a common language and structure for organizations to communicate cybersecurity risks and practices internally and externally.

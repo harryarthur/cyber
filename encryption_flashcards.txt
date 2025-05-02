@@ -1,0 +1,30 @@
+Encryption::What is encryption?	The process of converting plaintext into ciphertext to protect data.
+Encryption::What is symmetric encryption?	Encryption that uses the same key for both encryption and decryption.
+Encryption::What is asymmetric encryption?	Encryption that uses a public key for encryption and a private key for decryption.
+Encryption::What is the main disadvantage of symmetric encryption?	Key distribution is difficult as both parties must share the same secret key.
+Encryption::What is the main disadvantage of asymmetric encryption?	It is slower than symmetric encryption.
+Encryption::Name two common symmetric encryption algorithms.	AES and DES
+Encryption::Name two common asymmetric encryption algorithms.	RSA and ECC
+Encryption::What is AES?	Advanced Encryption Standard, a widely used symmetric encryption algorithm.
+Encryption::What is RSA?	A widely used asymmetric encryption algorithm based on the difficulty of factoring large numbers.
+Encryption::What is ECC?	Elliptic Curve Cryptography, an asymmetric encryption algorithm using elliptic curves.
+Encryption::What is a cryptographic key?	A value used by an algorithm to encrypt or decrypt data.
+Encryption::What is a cipher?	An algorithm used to perform encryption or decryption.
+Encryption::What is a block cipher?	An encryption method that processes data in fixed-size blocks.
+Encryption::What is a stream cipher?	An encryption method that encrypts data one bit or byte at a time.
+Encryption::What is ciphertext?	Data that has been encrypted and is unreadable without the decryption key.
+Encryption::What is plaintext?	Original readable data before encryption.
+Encryption::What is the difference between hashing and encryption?	Hashing is one-way and cannot be reversed; encryption is two-way.
+Encryption::What is a digital signature?	A cryptographic method to verify the authenticity and integrity of a message.
+Encryption::What is public key infrastructure (PKI)?	A system for managing digital certificates and public-key encryption.
+Encryption::What is a digital certificate?	An electronic document used to prove ownership of a public key.
+Encryption::What is key exchange?	The method by which cryptographic keys are shared between parties.
+Encryption::What is Diffie-Hellman used for?	Securely exchanging cryptographic keys over a public channel.
+Encryption::What is the purpose of SSL/TLS?	To encrypt communications between web clients and servers.
+Encryption::What does HTTPS use for encryption?	It uses SSL/TLS protocols for secure communication.
+Encryption::What is a cryptographic nonce?	A random or unique value used once in a cryptographic operation.
+Encryption::What is forward secrecy?	A property ensuring that session keys cannot be compromised even if the private key is.
+Encryption::What is a padding oracle attack?	A cryptographic attack that exploits padding validation in block ciphers.
+Encryption::What is key rotation?	The practice of periodically changing encryption keys to limit data exposure.
+Encryption::What is a keystore?	A secure storage mechanism for cryptographic keys.
+Encryption::What is an initialization vector (IV)?	A random value used with a key to encrypt the first block in block cipher modes.

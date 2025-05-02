@@ -1,0 +1,30 @@
+GRC::ISM::What is the purpose of the Information Security Manual (ISM)?	To outline a cybersecurity framework that organisations can apply to protect their IT and OT systems, applications, and data from cyber threats.
+GRC::ISM::Who is the ISM primarily intended for?	CISOs, CIOs, cybersecurity professionals, and IT managers.
+GRC::ISM::Is compliance with the ISM mandatory by law?	No, unless legislation or lawful direction compels compliance.
+GRC::ISM::What are the five cybersecurity principle functions in the ISM?	Govern, Identify, Protect, Detect, Respond.
+GRC::ISM::What does the GOVERN function focus on in the ISM?	Developing a strong cybersecurity culture.
+GRC::ISM::What does the IDENTIFY function focus on in the ISM?	Identifying assets and associated security risks.
+GRC::ISM::What does the PROTECT function focus on in the ISM?	Implementing controls to manage security risks.
+GRC::ISM::What does the DETECT function focus on in the ISM?	Detecting and analysing cybersecurity events.
+GRC::ISM::What does the RESPOND function focus on in the ISM?	Responding to and recovering from cybersecurity incidents.
+GRC::ISM::What is the six-step risk management framework described in the ISM?	Define the system, Select controls, Implement controls, Assess controls, Authorise the system, Monitor the system.
+GRC::ISM::Who is responsible for authorising a TOP SECRET system?	Director-General ASD or their delegate.
+GRC::ISM::What document is used to describe a system and its security characteristics?	System Security Plan.
+GRC::ISM::What is the role of the Chief Information Security Officer (CISO)?	To provide cybersecurity leadership and oversee the organisation’s cybersecurity program.
+GRC::ISM::What is a cybersecurity incident according to the ISM?	An unwanted or unexpected event that compromises or threatens business operations.
+GRC::ISM::What is the role of the board of directors regarding cybersecurity?	To define roles, integrate cybersecurity into business functions, align strategy, and receive regular reporting.
+GRC::ISM::What is the purpose of a cybersecurity incident management policy?	To plan for, detect, and respond to cybersecurity incidents.
+GRC::ISM::What must be included in a cybersecurity incident register?	Date occurred, date discovered, description, response actions, and reporting details.
+GRC::ISM::What is the ISM’s definition of cyber resilience?	The ability to adapt to disruptions caused by incidents while maintaining operations.
+GRC::ISM::What is the role of a system owner?	To ensure secure operation and implement the risk management framework for their system.
+GRC::ISM::What is required before a system can be authorised to operate?	An authorisation package including system plans, assessments, and risk acceptance.
+GRC::ISM::What are applicability markings in the ISM used for?	To indicate the classification level a control applies to: NC, OS, P, S, TS.
+GRC::ISM::What is the purpose of maturity modelling in ISM implementation?	To assess how well cybersecurity principles are implemented in an organisation.
+GRC::ISM::What is a shared responsibility model in the context of procurement?	A documented agreement defining the responsibilities of suppliers and customers.
+GRC::ISM::What event triggers a review and update of a system’s authorisation?	Major incidents, new threats, policy changes, or ineffective controls.
+GRC::ISM::How often should a cybersecurity incident response plan be exercised?	At least annually.
+GRC::ISM::What is the ISM’s guidance on insider threats?	Establish and maintain an insider threat mitigation program with appropriate monitoring.
+GRC::ISM::What kind of training should personnel receive under the ISM?	Ongoing cybersecurity awareness training.
+GRC::ISM::What is PROTECT-7 in the ISM?	Data is encrypted at rest and in transit between systems.
+GRC::ISM::Why should organisations assess control effectiveness?	To ensure controls are implemented correctly and operating as intended.
+GRC::ISM::What is a key responsibility of the CISO regarding incident response?	To oversee the organisation’s response to incidents and ensure proper reporting.

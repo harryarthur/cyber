@@ -1,0 +1,30 @@
+GRC::PSPF::What is the purpose of the Protective Security Policy Framework (PSPF)?	To set out Australian Government policy for protecting people, information, and resources across six security domains.
+GRC::PSPF::Who must apply the PSPF according to the PGPA Act?	Non-corporate Commonwealth entities must apply the PSPF as mandated under section 21 of the PGPA Act.
+GRC::PSPF::What are the six domains covered by the PSPF?	Governance, Risk, Information, Technology, Personnel, Physical.
+GRC::PSPF::What are the five tiers of the PSPF structure?	Principles, Domains, Policy, Standards and Technical Manuals, Guidelines.
+GRC::PSPF::Who is accountable for an entity's compliance with the PSPF?	The Accountable Authority is responsible for implementing the PSPF and is answerable to their Minister.
+GRC::PSPF::What is the role of the Chief Security Officer (CSO)?	To provide strategic oversight of the entity’s protective security and ensure implementation of the PSPF.
+GRC::PSPF::What clearance level must a CSO hold?	Minimum of Negative Vetting 1 clearance.
+GRC::PSPF::What is the role of the Chief Information Security Officer (CISO)?	To lead cyber security strategy, including implementation of the ISM and cyber mitigation strategies.
+GRC::PSPF::What is the role of security practitioners under the PSPF?	To support the CSO and CISO with the day-to-day protective security functions.
+GRC::PSPF::What is required of entities regarding a security plan?	They must develop, implement, and maintain a security plan with mandatory elements to manage security risks.
+GRC::PSPF::How often must a security plan be reviewed?	Annually considered, and formally reviewed at least every two years.
+GRC::PSPF::What is a positive security culture and who is responsible for it?	An environment promoting security-conscious behavior; the CSO and Accountable Authority are responsible.
+GRC::PSPF::What training requirements exist for personnel?	All personnel must receive security awareness training at engagement and annually thereafter.
+GRC::PSPF::What is a security incident under the PSPF?	Any action or event that compromises or may compromise security, including unauthorised access or information loss.
+GRC::PSPF::What is the CSO's responsibility in incident response?	To establish and maintain a security incident management plan integrated with business continuity arrangements.
+GRC::PSPF::What must be done for reportable security incidents?	Reported ASAP to the relevant authority or authorities in line with PSPF guidelines.
+GRC::PSPF::What is procedural fairness in security investigations?	Individuals must be informed of cases against them and given the opportunity to respond through an unbiased process.
+GRC::PSPF::What are the three PSPF compliance reporting categories?	Fully implemented, Risk managed, Not yet implemented.
+GRC::PSPF::What must be included in an entity's annual security report to its Minister?	Assurance that the entity has sound protective security practices and is improving year over year.
+GRC::PSPF::Who manages PSPF oversight within the Department of Home Affairs?	The Protective Security Board and the Government Security Committee.
+GRC::PSPF::What is the role of the Department of Home Affairs in PSPF implementation?	Administers the PSPF and manages government protective security policy.
+GRC::PSPF::What is the responsibility of a Shared Service Provider Entity (SSPE)?	To deliver security services that help other entities maintain appropriate security.
+GRC::PSPF::What must each entity establish for PSPF communication?	A dedicated security email address monitored for distributing PSPF-related advice and information.
+GRC::PSPF::What is the role of Technical Authority Entities (TAEs)?	To provide technical standards and security guidance within specific PSPF domains.
+GRC::PSPF::How does the PSPF treat foreign interference and espionage?	Entities must recognise, assess, and counter foreign interference and implement insider threat programs.
+GRC::PSPF::What is included in business continuity planning under the PSPF?	Incident response, emergency management, and safeguarding of critical people and resources.
+GRC::PSPF::How are classification markings used in the PSPF?	To denote the sensitivity of information and required protection measures.
+GRC::PSPF::Who is responsible for annual cyber security survey reporting?	Each entity must submit to the Australian Signals Directorate to inform the Commonwealth Cyber Security Posture Report.
+GRC::PSPF::What is the requirement for annual protective security report submission?	Submit to the Department of Home Affairs, approved by the Accountable Authority.
+GRC::PSPF::What does the PSPF emphasize about third-party risk management?	Entities must manage procurement, outsourcing, and the security lifecycle of third-party arrangements.
